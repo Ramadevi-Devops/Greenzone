@@ -1,15 +1,6 @@
-1. Exadata memory upgrade lined up 
+
 
 Linux
 2. May First week - TND patching
-3. Removing access as per security
-
-SQL:
-
-20 owners applications - on prem migration 
-1 Apps
-
-My receipts Applications - 
-
-2012 - 2019 
+3. Removing access as 
 upgrade 
